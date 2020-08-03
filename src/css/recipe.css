@@ -1,0 +1,14 @@
+.recipes {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+
+}
+
+.recipe-component{
+    max-width: 30vw;
+    min-width: 30vw;
+ background-color: #f9f9f9;
+}
